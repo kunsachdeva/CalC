@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.kunal.calC"
+        versionCode = "11" 
+        version     = "1.1.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Calculator Simple</name>
+
+    <description>
+      Calculator
+    </description>
+
+    <author href="Kunal" email="kunsachdeva@gmail.com">
+      Kunal Sachdeva
+    </author>
+    
+    <icon src="calc.png" />
+
+</widget>
